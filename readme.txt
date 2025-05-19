@@ -1,0 +1,1 @@
+ТЗ:https://docs.google.com/document/d/1zOiZ1RvdDTMeEh9VD2_0JUQH1UkAFNeo2zEO4IBXuQE/edit?tab=t.0

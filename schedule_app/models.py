@@ -44,7 +44,7 @@ class Schedule(models.Model):
     
 class Grade(models.Model):
     student = models.ForeignKey(Student, on_delete=models.CASCADE)
-    Subject = models.ForeignKey(Subject, on_delete=models.CASCADE)
+    subject = models.ForeignKey(Subject, on_delete=models.CASCADE)
     grade = models.IntegerField()
     date = models.CharField(max_length=100)
 
